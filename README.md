@@ -7,7 +7,7 @@ Website mô phỏng một trang web bán sản phẩm với các chức năng c�
 
 ---
 
-## Công nghệ sử dụng
+## Sử dụng ngôn ngữ
 
 * **HTML5** – xây dựng cấu trúc trang web
 * **CSS3** – thiết kế giao diện và bố cục trang
@@ -37,7 +37,7 @@ index.js       # File xử lý logic và tương tác
 
 ---
 
-## Kỹ thuật phần mềm áp dụng
+## Kỹ thuật phần mềm đơn giản được áp dụng
 
 Trong dự án này có áp dụng một số kỹ thuật phần mềm cơ bản:
 
@@ -55,25 +55,6 @@ Trong dự án này có áp dụng một số kỹ thuật phần mềm cơ bả
 
 ---
 
-## Cách chạy dự án
-
-1. Tải hoặc clone project về máy
-
-```
-git clone <repository-link>
-```
-
-2. Mở thư mục project
-
-3. Chạy file:
-
-```
-index.html
-```
-
-bằng trình duyệt web (Chrome, Edge, Firefox,...)
-
----
 
 ## Mục tiêu của dự án
 
@@ -84,7 +65,7 @@ bằng trình duyệt web (Chrome, Edge, Firefox,...)
 
 ---
 
-## Tác giả
+## Thành viên làm dự án
 
 * Nguyễn Vũ Trường Sơn
 * Trịnh Xuân Hồng Phong
